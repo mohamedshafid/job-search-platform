@@ -10,6 +10,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        accent: "#2a85ff",
+        secondary: "#141414",
+      },
+      fontFamily: {
+        poppins: ["var(--font-poppins)"],
       },
     },
   },
