@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
 
 export default async function Home() {
-  console.log("home");
+ 
   return (
     <div>
       <hr className="mt-2" />
